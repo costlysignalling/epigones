@@ -1,0 +1,9 @@
+archive
+rstudio-export
+version1_2traditions
+epigons.Rproj
+.Rproj.user
+*.tiff
+*.rds
+*.Rdata
+*.txt
